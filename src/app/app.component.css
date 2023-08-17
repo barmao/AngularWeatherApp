@@ -1,0 +1,14 @@
+.app-card {
+  margin: 20px;
+}
+
+.footer-toolbar {
+  justify-content: space-between;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}

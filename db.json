@@ -1,0 +1,30 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "region": "Nairobi",
+      "forecast": [
+        {"date": "2023-08-17", "temperature": 23, "precipitation": 10, "humidity": 58, "windSpeed": 10},
+        {"date": "2023-08-18", "temperature": 24, "precipitation": 12, "humidity": 60, "windSpeed": 9},
+        {"date": "2023-08-19", "temperature": 22, "precipitation": 15, "humidity": 59, "windSpeed": 11},
+        {"date": "2023-08-20", "temperature": 21, "precipitation": 8, "humidity": 62, "windSpeed": 12},
+        {"date": "2023-08-21", "temperature": 24, "precipitation": 9, "humidity": 58, "windSpeed": 10},
+        {"date": "2023-08-22", "temperature": 23, "precipitation": 11, "humidity": 60, "windSpeed": 11},
+        {"date": "2023-08-23", "temperature": 22, "precipitation": 10, "humidity": 57, "windSpeed": 9}
+      ]
+    },
+    {
+      "id": 2,
+      "region": "Mombasa",
+      "forecast": [
+        {"date": "2023-08-17", "temperature": 28, "precipitation": 5, "humidity": 72, "windSpeed": 13},
+        {"date": "2023-08-18", "temperature": 27, "precipitation": 7, "humidity": 74, "windSpeed": 12},
+        {"date": "2023-08-19", "temperature": 28, "precipitation": 6, "humidity": 73, "windSpeed": 14},
+        {"date": "2023-08-20", "temperature": 29, "precipitation": 4, "humidity": 75, "windSpeed": 12},
+        {"date": "2023-08-21", "temperature": 28, "precipitation": 5, "humidity": 74, "windSpeed": 13},
+        {"date": "2023-08-22", "temperature": 27, "precipitation": 6, "humidity": 73, "windSpeed": 15},
+        {"date": "2023-08-23", "temperature": 28, "precipitation": 4, "humidity": 72, "windSpeed": 14}
+      ]
+    }
+  ]
+}

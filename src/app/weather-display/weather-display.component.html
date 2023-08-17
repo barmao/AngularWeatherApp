@@ -1,0 +1,35 @@
+<div *ngIf="weatherData" class="weather-container">
+
+  <mat-card-header>
+    <mat-card-title>
+      <h2>Weather for {{ weatherData.region }}</h2>
+    </mat-card-title>
+  </mat-card-header>
+
+  <div class="forecast-container">
+    <mat-card class="forecast-card" *ngFor="let day of weatherData.forecast">
+      <div class="forecast">
+        <div class="forecast-header">
+          <h4>{{ day.date }}</h4>
+        </div>
+
+<!-- Weather icon representation -->
+<div class="forecast-icon" [@fadeInOut]>
+  <i [class]="weatherIcon(day.weatherType)"></i>
+</div>
+
+
+        <mat-card-content class="forecast-details">
+          <p>
+            Temperature: {{ day.temperature }}°C
+            <mat-chip color="warn" *ngIf="isExtremeTemperature(day.temperature)" class="extreme-chip">Extreme</mat-chip>
+          </p>
+          <p>Precipitation: {{ day.precipitation }}%</p>
+          <p>Humidity: {{ day.humidity }}%</p>
+          <p>Wind Speed: {{ day.windSpeed }}km/h</p>
+        </mat-card-content>
+      </div>
+    </mat-card>
+  </div>
+
+</div>
