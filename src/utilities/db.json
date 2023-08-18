@@ -1,0 +1,6404 @@
+{
+  "market": [
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 86.88,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 110.37,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 80.32,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 48.1,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 57.26,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 43.89,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 70.47,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 53.66,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 46.45,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 72.57,
+      "date": "2023-08-11"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 85.15,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 109.62,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 81.86,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 48.32,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 56.42,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 44.57,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 70.69,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 54.46,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 47.34,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 72.13,
+      "date": "2023-08-12"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 86.16,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 110.59,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 81.61,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 49.17,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 56.76,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 44.45,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 71.58,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 54.14,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 46.73,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 72.18,
+      "date": "2023-08-13"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 85.83,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 111.59,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 83.21,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 48.97,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 56.3,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 43.6,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 72.53,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 53.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 46.7,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 70.86,
+      "date": "2023-08-14"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 87.35,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 113.23,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 82.47,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 49.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 55.54,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 43.3,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 72,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 53.96,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 46.04,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 70.92,
+      "date": "2023-08-15"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 87.85,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 112.35,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 81.82,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 49.02,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 55.64,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 43.66,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 71.31,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 54.87,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 45.86,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 71.71,
+      "date": "2023-08-16"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 88.01,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 112.41,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 81.86,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 49.87,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 55.76,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 43.22,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 71.3,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 53.95,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 45.61,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 71.7,
+      "date": "2023-08-17"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Dry Maize",
+      "grade": "White Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 86.77,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Flax",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wet Maize",
+      "grade": "Yellow Maize",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 110.83,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Flax",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Rice",
+      "grade": "Basmati",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 82.49,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Wheat",
+      "grade": "Hard Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 49.24,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Flax",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Barley",
+      "grade": "Hulled",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 55.18,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Flax",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Sorghum",
+      "grade": "Red",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 42.72,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Flax",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Millet",
+      "grade": "Pearl",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 70.36,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Flax",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Beans",
+      "grade": "Pinto",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 54.62,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Flax",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Peas",
+      "grade": "Green",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 44.82,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyansiongo",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Chuka",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Cheptulu",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Isebania Market",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Nyeri open air",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kerugoya",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Kitale",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Flax",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Keroka",
+      "price": 72.91,
+      "date": "2023-08-18"
+    },
+    {
+      "commodity": "Lentils",
+      "grade": "Red Split",
+      "sex": "-",
+      "market": "Mabera",
+      "price": 72.91,
+      "date": "2023-08-18"
+    }
+  ]
+}
