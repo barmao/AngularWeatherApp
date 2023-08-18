@@ -12,3 +12,7 @@
 mat-form-field {
   width: 24%;
 }
+
+mat-paginator {
+  margin-top: 20px;
+}

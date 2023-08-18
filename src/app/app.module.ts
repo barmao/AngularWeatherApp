@@ -15,13 +15,15 @@ import { MatChipsModule } from '@angular/material/chips';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MarketPricesComponent } from './market-prices/market-prices.component';
 import { MatTableModule } from '@angular/material/table';
+import { MarketPriceColumnChartComponent } from './market-prices/market-price-column-chart/market-price-column-chart.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     WeatherDisplayComponent,
-    MarketPricesComponent
+    MarketPricesComponent,
+    MarketPriceColumnChartComponent
   ],
   imports: [
     BrowserModule,

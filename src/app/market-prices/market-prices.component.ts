@@ -24,9 +24,9 @@ export class MarketPricesComponent implements OnInit {
 
   // Filtering properties with default values
   allData: any[] = [];
-  displayedData: any[] = [];
-  // displayedData = new MatTableDataSource<any>([]); // Change the type of displayedData to MatTableDataSource
-  // @ViewChild(MatPaginator) paginator!: MatPaginator;
+  //displayedData: any[] = [];
+  displayedData = new MatTableDataSource<any>([]); // Change the type of displayedData to MatTableDataSource
+  @ViewChild(MatPaginator) paginator!: MatPaginator;
 
   commodities: string[] = [];
   grades: string[] = [];
@@ -77,13 +77,17 @@ export class MarketPricesComponent implements OnInit {
     this.fetchMarketData();
   }
 
+  ngAfterViewInit() {
+    this.displayedData.paginator = this.paginator;
+  }
+
   fetchMarketData(): void {
     this.marketDataService.getMarketData().subscribe(data => {
       // Populate the allData property with the fetched data
       this.allData = data;
 
       // Initially, displayedData will be the same as allData
-      this.displayedData = [...this.allData];
+      this.displayedData.data = [...this.allData];
 
       // Process the data and populate the properties for filters
       this.commodities = Array.from(new Set(data.map(item => item.commodity)));
@@ -107,7 +111,7 @@ export class MarketPricesComponent implements OnInit {
 
   updateDisplayData(): void {
     // Filter the allData based on the selected filters
-    this.displayedData = this.allData.filter(item =>
+    this.displayedData.data = this.allData.filter(item =>
       (!this.selectedCommodity || item.commodity === this.selectedCommodity) &&
       (!this.selectedGrade || item.grade === this.selectedGrade) &&
       (!this.selectedSex || item.sex === this.selectedSex) &&
@@ -115,7 +119,7 @@ export class MarketPricesComponent implements OnInit {
     );
 
     // Update chart data based on the filtered displayedData
-    this.chartSeries[0].data = this.displayedData.map(item => ({
+    this.chartSeries[0].data = this.displayedData.data.map(item => ({
       x: new Date(item.date).getTime(),
       y: item.price
     }));

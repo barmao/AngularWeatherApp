@@ -80,6 +80,9 @@
   <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
 </table>
 
+<!-- Paginator -->
+<mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
+
 <!-- ApexChart Rendering -->
 <apx-chart
   [series]="chartSeries"
@@ -88,4 +91,7 @@
   [yaxis]="chartOptions.yaxis"
   [title]="chartOptions.title">
 </apx-chart>
+
+
+<app-market-price-column-chart [data]="allData" [selectedMarkets]="selectedMarkets"></app-market-price-column-chart>
 
