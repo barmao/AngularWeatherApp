@@ -1,0 +1,14 @@
+.filter-section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.chart-section {
+  width: 100%;
+}
+
+mat-form-field {
+  width: 24%;
+}
